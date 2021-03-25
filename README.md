@@ -35,7 +35,7 @@ The challenge required me to do the following:
 ### Links
 
 
-- Live Site URL: [micah-faq-challenge.netlify.app](hthttps://micah-faq-challenge.netlify.app/)
+- Live Site URL: [micah-faq-accordion.netlify.app](https://micah-faq-accordion.netlify.app)
 
 ## My process
 
